@@ -3,3 +3,7 @@ vasthav
 aravind
 raja 
 rohit
+babloo
+name
+git
+status
